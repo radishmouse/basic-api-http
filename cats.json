@@ -1,0 +1,18 @@
+{
+  "oakley": {
+    "name": "oakley",
+    "personality": "cuddly"
+  },
+  "milla": {
+    "name": "milla",
+    "personality": "prissy"
+  },
+  "whisper": {
+    "name": "whisper",
+    "personality": "chill"
+  },
+  "neo": {
+    "name": "neo",
+    "personality": "weird"
+  }
+}
